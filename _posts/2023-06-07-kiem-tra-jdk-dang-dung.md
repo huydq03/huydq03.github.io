@@ -12,9 +12,9 @@ Xin chào các bạn. Hiện tại bộ môn UDPM ngành PTPM Java đang sử d�
 có version là 17 và netbean dành cho Java 1-3 (Netbean nên chọn 12.4 trở lên)
 ## Kiểm tra version JDK
 ####  Bật command và nhập lệnh sau :
-``` 
+````
 java --version
-```
+````
 
 ![img.png](../assets/img/kiem-tra-jdk-dang-dung/cmd.png)
 
